@@ -14,7 +14,7 @@ This repository contains the official implementation of "Explanatory Summarizati
 
 We are in the process of cleaning up our code and preparing it for public release. We are committed to making the code publicly available before the publication of our paper.
 
-**Expected release date: Before June 15, 2024** ⏰
+**Expected release date: Before June 15, 2025** ⏰
 
 ## 📄 Paper Abstract
 
