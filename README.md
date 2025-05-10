@@ -30,7 +30,3 @@ Lay summaries for scientific documents typically include explanations to help re
   year={2025}
 }
 ```
-
-## 📬 Contact
-
-For any questions about the code or paper, please open an issue or contact the authors directly.
