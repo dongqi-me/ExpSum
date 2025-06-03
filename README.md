@@ -1,4 +1,4 @@
-# 📚 ExpSum: Explanatory Summarization with Discourse-Driven Planning
+# 📚 Explanatory Summarization with Discourse-Driven Planning
 
 This repository contains the official implementation of "Explanatory Summarization with Discourse-Driven Planning" accepted at Transactions of the Association for Computational Linguistics (TACL).
 
