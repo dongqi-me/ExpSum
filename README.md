@@ -35,7 +35,7 @@ python src/train.py --model_type plan_input --train_data_path data/train.json --
 python src/inference.py --model_type plan_output --model_path models/plan_output --test_data_path data/test.json --output_path results.json
 
 
-python src/inference.py --model_type plan_output --model_path models/plan_input --test_data_path data/test.json --output_path results.json
+python src/inference.py --model_type plan_input --model_path models/plan_input --test_data_path data/test.json --output_path results.json
 ```
 
 ## 📚 Parser References
